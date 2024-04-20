@@ -1,8 +1,7 @@
 {
   "plug": [
     { "id": 1, "status": "on" }
-  ]
-},
+  ],
 "profile": {
     "name": "typicode"
 }
