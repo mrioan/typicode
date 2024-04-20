@@ -2,4 +2,7 @@
   "plug": [
     { "id":"printer": , "status": "on" }
   ]
+},
+"profile": {
+    "name": "typicode"
 }
